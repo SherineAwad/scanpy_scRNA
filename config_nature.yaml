@@ -1,0 +1,7 @@
+#---------------------------------------------------
+#General Parameters 
+#---------------------------------------------------
+ALL: "ZebrafishesNature"
+SAMPLES: "samples_nature.tsv"
+ANNOFILE: "annotationsi_nature.txt"
+

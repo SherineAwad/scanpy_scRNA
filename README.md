@@ -3,9 +3,6 @@
 This repository contains a Snakemake-based pipeline for analyzing single-cell RNA sequencing (scRNA-seq) data from **zebrafish retina** using [Scanpy](https://scanpy.readthedocs.io/en/stable/).  
 The data used in this analysis is derived from the study:
 
-> **Title**: Molecular architecture of the zebrafish retina  
-> **Authors**: Thomas J. Pandolfi et al.  
-> **Journal**: *Nature Communications* (2024)  
 > **Link**: [https://www.nature.com/articles/s41467-023-44142-w](https://www.nature.com/articles/s41467-023-44142-w)
 
 ## 🔧 Tools Used
